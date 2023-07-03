@@ -17,6 +17,7 @@ public class EvenOrOdd {
      
      public static void main(String [] args){
 
+        
      }
     public String decide(int n){
         if(n % 2 == 0){
